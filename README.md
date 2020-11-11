@@ -1,2 +1,1 @@
-# JogoPlataforma
-Jogo 2D - Aula Ely
+Jogo 2D
